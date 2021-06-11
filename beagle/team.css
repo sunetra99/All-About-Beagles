@@ -1,0 +1,76 @@
+body{
+	overflow-x: hidden!important;
+	background-color:#505962!important;
+}
+
+/*-------nav-bar--------*/
+.navbar{
+	font-weight: 700;
+	font-size: ;
+	letter-spacing: 1.6px;
+	background:  rgba(0,0,0,0.6)!important;
+}
+.navbar-brand img{
+	    height: 99px;
+}
+.navbar-nav li{
+	padding-right: 11.2px;
+}
+.navbar-dark .navbar-nav .nav-link{
+	color:#ffc107!important;
+	 font-size: 1.3rem;
+    font-weight: 800;
+}
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #ffc107!important;
+    font-size: 1.3rem;
+    font-weight: 800;
+}
+
+/*-------nav-area--------*/
+
+.area-card{
+	padding-top: 125px!important;
+}
+.row{
+	background-color:#505962;  
+}
+.column{
+	padding-left: 200px;
+}
+
+.bttn{
+	padding-top: 20px;
+	
+}
+.col-sm-4{
+	margin: 40px;
+}
+
+/*footer*/
+
+.fa{
+	text-shadow: 0.1rem 0.1rem 0.8rem black;
+	color: white!important;
+	font-weight: 200;
+	padding-bottom: 15px;
+}
+.high{
+	text-shadow: 0.1rem 0.1rem 0.8rem black;
+	font-size: 1.2rem;
+	font-weight: 700;
+	color: white;
+}
+.footer-hr{
+	width: 100%;
+	text-align: center;
+	border-width: 1.5px;
+	border-color: white; 
+	padding-bottom: 25px;
+}
+#icon {
+	text-shadow: 0.1rem 0.1rem 0.8rem black;
+	font-size: 1.1rem;
+	font-weight: 500;
+}
